@@ -49,10 +49,10 @@
 
 <script>
 import CardFront from "@/components/CardFront"
-import CardBack from "@/components/CardBack"
+
     export default {
       components:{
-      CardFront,CardBack
+      CardFront
       },
       
         data(){
