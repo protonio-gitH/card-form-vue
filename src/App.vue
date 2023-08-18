@@ -5,11 +5,10 @@
 
 <script>
 import CardFront from "./components/CardFront"
-import CardBack from "./components/CardBack"
 import CardForm from "./components/CardForm"
   export default {
     components:{
-      CardFront,CardBack,CardForm
+      CardFront,CardForm
     },
     data(){
       return{
